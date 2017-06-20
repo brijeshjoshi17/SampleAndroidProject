@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAndroidProject</string>
+    <string name="title_repository_detail">Repository Detail</string>
+    <string name="unknown_error">An unknown error occurred. Please try again.</string>
+</resources>
