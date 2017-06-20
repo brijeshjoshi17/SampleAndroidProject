@@ -5,4 +5,4 @@ The main activity and starting point of the app is `RepositoryListActivity`. Thi
 
 Clicking on a list item starts another activity `RepositoryDetailActivity`, which hosts `RepositoryDetailFragment` that shows the name of the repository as the title, the description of the repository, and the GitHub link.
 
-The original list of repositories is fetched by making a network call using the `Retrofit` library.
+The original list of repositories is fetched by making a network call using the `Retrofit` library. For the purposes of this example, the list fetched is the list of all of Square's repositories (https://github.com/square).
